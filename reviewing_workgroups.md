@@ -2,6 +2,6 @@
 
 The purpose of reviewing a workgroup is to assure that the workgroup's profile is as comprehensive and up-to-date as possible.
 
-In [an episode of the TED Radio Hour](https://itunes.apple.com/us/podcast/ted-radio-hour/id523121474?mt=2&i=334734386) it was discussed that one pitfall in any office environment is so many meetings and discussions _about_ work, that there's no time left to actually _do_ the work. For this reason, it is recommended that the _maximum_ frequency of reviews on any specific workgroup be anywhere from once a month to once every seventy days, depending on the group's level of activity.
+In [an episode of the TED Radio Hour](http://www.npr.org/2013/07/13/197986218/why-we-collaborate) it was discussed that one pitfall in any office environment is so many meetings and discussions _about_ work, that there's no time left to actually _do_ the work. For this reason, it is recommended that the _maximum_ frequency of reviews on any specific workgroup be anywhere from once a month to once every seventy days, depending on the group's level of activity.
 
 
